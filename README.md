@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Marylag
 - 👀 I’m interested in coding
-- 🌱 I’m currently learning Python
+- 🌱 I’m currently learning Web development
 - 💞️ I’m looking to collaborate on projects
 - 📫 How to reach me: laguta113@gmail.com
 
